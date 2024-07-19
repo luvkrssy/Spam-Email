@@ -5,10 +5,15 @@ This project aims to classify emails as spam or not spam using Natural Language 
 ## Project Structure
 
 spam_classifier/
+
 │
+
 ├── data/
+
 │ └── spam.csv
+
 ├── src/
+
 │ ├── preprocess.py
 │ ├── train.py
 │ ├── evaluate.py
